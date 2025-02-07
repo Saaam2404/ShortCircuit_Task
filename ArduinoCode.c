@@ -1,7 +1,7 @@
-int led11=11;
-int led12=12;
-int led13=13;
-int button=2;
+int led11=11; //green light
+int led12=12; //yellow light
+int led13=13; //red light
+int button=2; //push button
 int greentime=1000;
 int yellowtime=1000;
 int redtime=1000;
