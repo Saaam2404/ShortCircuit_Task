@@ -7,4 +7,4 @@ The PUSH button denotes a PEDESTRIAN CROSSING THE ROAD. It immediately turns RED
 
 ## Table of Contents
 
---[ArduinoCode](#ArduinoCode)
+-- [ArduinoCode](#ArduinoCode)
