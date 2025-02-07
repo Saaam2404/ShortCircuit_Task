@@ -1,4 +1,4 @@
-# Concept and Idea
+# Idea
 
 millis() function is used to control the timing of the traffic light cycle rather than delay function as it will help us to perform other tasks simultaneously, if required, without delay.
 
