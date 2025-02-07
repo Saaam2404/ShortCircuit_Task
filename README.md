@@ -9,7 +9,7 @@ The PUSH button denotes a PEDESTRIAN CROSSING THE ROAD. It immediately turns RED
 
 -- [ArduinoCode](https://github.com/Saaam2404/ShortCircuit_Task/blob/main/ArduinoCode)
 
--- [Concept](https://github.com/Saaam2404/ShortCircuit_Task/blob/main/Concept_and_Idea.md)
+-- [Concept and Idea](https://github.com/Saaam2404/ShortCircuit_Task/blob/main/Concept_and_Idea.md)
 
 # TinkerCad_File
 
