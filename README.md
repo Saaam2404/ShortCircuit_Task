@@ -10,3 +10,7 @@ The PUSH button denotes a PEDESTRIAN CROSSING THE ROAD. It immediately turns RED
 -- [ArduinoCode](#ArduinoCode)
 
 -- [Concept_and_Idea](#Concept_and_Idea.md)
+
+# TinkerCad_File
+
+[Simple Traffic Light](https://www.tinkercad.com/things/homqDHw63H6-frantic-kup-krunk?sharecode=Ak2gs7bjSyCwCQKpKgAVUo_QOkNLifkixf6YYij4Qc0)
